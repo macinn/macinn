@@ -10,6 +10,6 @@ I am a Computer Science student and Software Engineer. My projects are research-
 - [MCST-Checkers-CUDA](https://github.com/macinn/MCST-Checkers-CUDA) <br>
   Monte Carlo Search Tree based checkers engine, utilizing parallel computing on GPU.
 - [CG-Lighting-TriangleMesh](https://github.com/macinn/CG-Lighting-TriangleMesh) <br>
-  Project on lighting calculation using Lambertian model and Bazier surface.
+  Project on lighting calculation using Lambertian model and Bezier surface.
 - [CG-Filtering](https://github.com/macinn/CG-Filtering) <br>
   Project on parallel image processing using digital filtering.
