@@ -13,3 +13,5 @@ I am a Computer Science student and Software Engineer. My projects are research-
   Project on lighting calculation using Lambertian model and Bezier surface.
 - [CG-Filtering](https://github.com/macinn/CG-Filtering) <br>
   Project on parallel image processing using digital filtering.
+- [Infinite-Tic-Tac-Toe](https://github.com/macinn/Infinite-Tic-Tac-Toe) <br>
+  Web version of Tic Tac Toe with a twist and minimax engine.
